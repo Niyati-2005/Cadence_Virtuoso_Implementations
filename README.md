@@ -9,13 +9,13 @@ Each circuit was designed from first principles, symbolized, and verified throug
 ## ⚡ Implemented Circuits
 
 - **CMOS Inverter**  
-- **NAND Gate**  
-- **AND Gate**  
-- **OR Gate**  
+- **NAND Gate**    
 - **XOR Gate**  
-- **Full Adder**  
+- **Full Adder**
+- **3_INPUT OR GATE** 
 - **2×1 Multiplexer**  
 - **SR Latch**
+- **JK FLIP FLOP**
 
 ---
 
